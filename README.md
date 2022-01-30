@@ -15,7 +15,8 @@
         - создавать сложные, но быстрые приложения<br>
         - стать частью крутой команды<br>
         - изучить новые и интересные фреймворки<br>
-        - кодить каждый день
+        - кодить каждый день<br>
+        - подтянуть английский
     </samp>
 </p>
 
@@ -28,10 +29,6 @@
 ![Git](https://img.shields.io/badge/-Git-3b3b3b?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-3b3b3b?style=flat&logo=figma)
 ![Webpack](https://img.shields.io/badge/-Webpack-3b3b3b?style=flat&logo=Webpack)
-
-<h3><samp>📬 Контакты:</samp></h3>
-
-[![Telegram](https://img.shields.io/badge/-Telegram-3b3b3b?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/famovkin)
 
 <h3><samp>🏆 Моя статистика:</samp></h3>
 <div>
