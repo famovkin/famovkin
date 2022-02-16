@@ -28,7 +28,9 @@
 ![React](https://img.shields.io/badge/-React-3b3b3b?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-3b3b3b?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-3b3b3b?style=flat&logo=figma)
-![Webpack](https://img.shields.io/badge/-Webpack-3b3b3b?style=flat&logo=Webpack)
+![Express](https://img.shields.io/badge/-Express-3b3b3b?style=flat&logo=express)
+![Redux](https://img.shields.io/badge/-Redux-3b3b3b?style=flat&logo=redux)
+![SASS](https://img.shields.io/badge/-SASS-3b3b3b?style=flat&logo=sass)
 
 <h3><samp>🏆 Моя статистика:</samp></h3>
 <div>
